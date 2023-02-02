@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>651b45664de46f64a9f6f8cc2e16d411</guid>
+    <fileName>Assets/script/haha.cs</fileName>
+    <timeStamp>2023-02-02T12:27:48.0501607+01:00</timeStamp>
+    <typeFullName>
+      <string>haha</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4947fad9e2a3c1a4bb53d0f23484b1b1</guid>
+    <fileName>Assets/sweep/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2023-02-02T16:45:40+01:00</timeStamp>
+    <typeFullName />
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3bce066891c2aff419fb526e95a9e8ba</guid>
+    <fileName>Assets/sweep/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2023-02-02T16:45:40+01:00</timeStamp>
+    <typeFullName />
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7e042251d30c4a94586c0696a0384673</guid>
+    <fileName>Assets/sweep/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2023-02-02T16:45:40+01:00</timeStamp>
+    <typeFullName />
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2233f62934741f84f800cc9c60310ada</guid>
+    <fileName>Assets/sweep/Editor/CollectionData.cs</fileName>
+    <timeStamp>2023-02-02T16:45:40+01:00</timeStamp>
+    <typeFullName />
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d64fc5c8ad12afe44a6b742ac388fcdb</guid>
+    <fileName>Assets/sweep/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2023-02-02T16:45:40+01:00</timeStamp>
+    <typeFullName />
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>29cd051e056d1f74799c9e41b44dac6d</guid>
+    <fileName>Assets/sweep/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2023-02-02T16:45:40+01:00</timeStamp>
+    <typeFullName />
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>
